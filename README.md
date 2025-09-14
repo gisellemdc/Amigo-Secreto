@@ -11,6 +11,9 @@ Funcionalidades:
 - 
 
 ## ¿Cómo jugar?
+
+DEMO https://gisellemdc.github.io/Amigo-Secreto/
+
 1. **Escribe tu nombre** y presiona **Añadir**.  
    ![Agregar nombres](assets/shot-add.png)
 
